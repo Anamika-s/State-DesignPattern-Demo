@@ -1,0 +1,16 @@
+E:\StatePatternDemo\bin\Debug\net5.0\StatePatternDemo.exe
+E:\StatePatternDemo\bin\Debug\net5.0\StatePatternDemo.deps.json
+E:\StatePatternDemo\bin\Debug\net5.0\StatePatternDemo.runtimeconfig.json
+E:\StatePatternDemo\bin\Debug\net5.0\StatePatternDemo.runtimeconfig.dev.json
+E:\StatePatternDemo\bin\Debug\net5.0\StatePatternDemo.dll
+E:\StatePatternDemo\bin\Debug\net5.0\ref\StatePatternDemo.dll
+E:\StatePatternDemo\bin\Debug\net5.0\StatePatternDemo.pdb
+E:\StatePatternDemo\obj\Debug\net5.0\StatePatternDemo.csproj.AssemblyReference.cache
+E:\StatePatternDemo\obj\Debug\net5.0\StatePatternDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\StatePatternDemo\obj\Debug\net5.0\StatePatternDemo.AssemblyInfoInputs.cache
+E:\StatePatternDemo\obj\Debug\net5.0\StatePatternDemo.AssemblyInfo.cs
+E:\StatePatternDemo\obj\Debug\net5.0\StatePatternDemo.csproj.CoreCompileInputs.cache
+E:\StatePatternDemo\obj\Debug\net5.0\StatePatternDemo.dll
+E:\StatePatternDemo\obj\Debug\net5.0\ref\StatePatternDemo.dll
+E:\StatePatternDemo\obj\Debug\net5.0\StatePatternDemo.pdb
+E:\StatePatternDemo\obj\Debug\net5.0\StatePatternDemo.genruntimeconfig.cache
